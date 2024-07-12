@@ -1,0 +1,26 @@
+﻿@model PhamTungSon_K22CNT1.Models.Pts_TACGIA
+
+@{
+    ViewBag.Title = "PtsDetails";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Pts_TACGIA</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Pts_TenTacGia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pts_TenTacGia)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("PtsEdit", "PtsEdit", new { id = Model.Pts_MaTG }) |
+    @Html.ActionLink("Back to List", "PtsIndex")
+</p>

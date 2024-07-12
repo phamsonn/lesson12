@@ -1,0 +1,33 @@
+﻿@model IEnumerable<PhamTungSon_K22CNT1.Models.Pts_TACGIA>
+
+@{
+    ViewBag.Title = "PtsIndex";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "PtsCreate")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Pts_TenTacGia)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Pts_TenTacGia)
+        </td>
+        <td>
+            @Html.ActionLink("PtsEdit", "PtsEdit", new { id=item.Pts_MaTG.Trim() }) |
+            @Html.ActionLink("PtsDetails", "PtsDetails", new { id=item.Pts_MaTG.Trim() }) |
+            @Html.ActionLink("PtsDelete", "PtsDelete", new { id=item.Pts_MaTG.Trim() })
+        </td>
+    </tr>
+}
+
+</table>

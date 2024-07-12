@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|c:\\users\\admin\\downloads\\phamtungson_k22cnt1 lesson12\\phamtungson_k22cnt1\\phamtungson_k22cnt1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|solutionrelative:phamtungson_k22cnt1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\phamtungson_k22cnt1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|solutionrelative:phamtungson_k22cnt1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\phamtungson_k22cnt1\\views\\pts_sach\\ptscreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|solutionrelative:phamtungson_k22cnt1\\views\\pts_sach\\ptscreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\phamtungson_k22cnt1\\views\\pts_sach\\ptsdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|solutionrelative:phamtungson_k22cnt1\\views\\pts_sach\\ptsdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\phamtungson_k22cnt1\\views\\pts_sach\\ptsdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|solutionrelative:phamtungson_k22cnt1\\views\\pts_sach\\ptsdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\phamtungson_k22cnt1\\views\\pts_sach\\ptsedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|solutionrelative:phamtungson_k22cnt1\\views\\pts_sach\\ptsedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\phamtungson_k22cnt1\\views\\pts_sach\\ptsindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|solutionrelative:phamtungson_k22cnt1\\views\\pts_sach\\ptsindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\phamtungson_k22cnt1\\controllers\\pts_sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|solutionrelative:phamtungson_k22cnt1\\controllers\\pts_sachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\phamtungson_k22cnt1\\views\\pts_tacgia\\ptscreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|solutionrelative:phamtungson_k22cnt1\\views\\pts_tacgia\\ptscreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\phamtungson_k22cnt1\\views\\pts_tacgia\\ptsdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|solutionrelative:phamtungson_k22cnt1\\views\\pts_tacgia\\ptsdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\phamtungson_k22cnt1\\views\\pts_tacgia\\ptsdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|solutionrelative:phamtungson_k22cnt1\\views\\pts_tacgia\\ptsdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\phamtungson_k22cnt1\\views\\pts_tacgia\\ptsedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|solutionrelative:phamtungson_k22cnt1\\views\\pts_tacgia\\ptsedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\phamtungson_k22cnt1\\views\\pts_tacgia\\ptsindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|solutionrelative:phamtungson_k22cnt1\\views\\pts_tacgia\\ptsindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\phamtungson_k22cnt1\\controllers\\pts_tacgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|solutionrelative:phamtungson_k22cnt1\\controllers\\pts_tacgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\phamtungson_k22cnt1\\models\\sonmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|solutionrelative:phamtungson_k22cnt1\\models\\sonmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\phamtungson_k22cnt1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F41AC88-8C47-49CC-A228-6CF420F4E623}|PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1.csproj|solutionrelative:phamtungson_k22cnt1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PtsDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Pts_SACH\\PtsDetails.cshtml",
+              "RelativeDocumentMoniker": "PhamTungSon_K22CNT1\\Views\\Pts_SACH\\PtsDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Pts_SACH\\PtsDetails.cshtml",
+              "RelativeToolTip": "PhamTungSon_K22CNT1\\Views\\Pts_SACH\\PtsDetails.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T13:45:01.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PtsEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Pts_SACH\\PtsEdit.cshtml",
+              "RelativeDocumentMoniker": "PhamTungSon_K22CNT1\\Views\\Pts_SACH\\PtsEdit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Pts_SACH\\PtsEdit.cshtml",
+              "RelativeToolTip": "PhamTungSon_K22CNT1\\Views\\Pts_SACH\\PtsEdit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T13:44:53.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PtsIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Pts_SACH\\PtsIndex.cshtml",
+              "RelativeDocumentMoniker": "PhamTungSon_K22CNT1\\Views\\Pts_SACH\\PtsIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Pts_SACH\\PtsIndex.cshtml",
+              "RelativeToolTip": "PhamTungSon_K22CNT1\\Views\\Pts_SACH\\PtsIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T13:44:26.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pts_SACHController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Controllers\\Pts_SACHController.cs",
+              "RelativeDocumentMoniker": "PhamTungSon_K22CNT1\\Controllers\\Pts_SACHController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Controllers\\Pts_SACHController.cs",
+              "RelativeToolTip": "PhamTungSon_K22CNT1\\Controllers\\Pts_SACHController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAHIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:43:25.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PtsDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Pts_TACGIA\\PtsDelete.cshtml",
+              "RelativeDocumentMoniker": "PhamTungSon_K22CNT1\\Views\\Pts_TACGIA\\PtsDelete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Pts_TACGIA\\PtsDelete.cshtml",
+              "RelativeToolTip": "PhamTungSon_K22CNT1\\Views\\Pts_TACGIA\\PtsDelete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T13:42:48.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PtsCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Pts_TACGIA\\PtsCreate.cshtml",
+              "RelativeDocumentMoniker": "PhamTungSon_K22CNT1\\Views\\Pts_TACGIA\\PtsCreate.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Pts_TACGIA\\PtsCreate.cshtml",
+              "RelativeToolTip": "PhamTungSon_K22CNT1\\Views\\Pts_TACGIA\\PtsCreate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T13:42:44.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "PhamTungSon_K22CNT1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "PhamTungSon_K22CNT1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T13:28:33.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PhamTungSon_K22CNT1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PhamTungSon_K22CNT1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T13:27:28.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PtsDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Pts_SACH\\PtsDelete.cshtml",
+              "RelativeDocumentMoniker": "PhamTungSon_K22CNT1\\Views\\Pts_SACH\\PtsDelete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Pts_SACH\\PtsDelete.cshtml",
+              "RelativeToolTip": "PhamTungSon_K22CNT1\\Views\\Pts_SACH\\PtsDelete.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T13:45:15.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PtsCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Pts_SACH\\PtsCreate.cshtml",
+              "RelativeDocumentMoniker": "PhamTungSon_K22CNT1\\Views\\Pts_SACH\\PtsCreate.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Pts_SACH\\PtsCreate.cshtml",
+              "RelativeToolTip": "PhamTungSon_K22CNT1\\Views\\Pts_SACH\\PtsCreate.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T13:45:21.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PtsDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Pts_TACGIA\\PtsDetails.cshtml",
+              "RelativeDocumentMoniker": "PhamTungSon_K22CNT1\\Views\\Pts_TACGIA\\PtsDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Pts_TACGIA\\PtsDetails.cshtml",
+              "RelativeToolTip": "PhamTungSon_K22CNT1\\Views\\Pts_TACGIA\\PtsDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T13:40:08.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PtsIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Pts_TACGIA\\PtsIndex.cshtml",
+              "RelativeDocumentMoniker": "PhamTungSon_K22CNT1\\Views\\Pts_TACGIA\\PtsIndex.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Pts_TACGIA\\PtsIndex.cshtml",
+              "RelativeToolTip": "PhamTungSon_K22CNT1\\Views\\Pts_TACGIA\\PtsIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T13:39:51.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PtsEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Pts_TACGIA\\PtsEdit.cshtml",
+              "RelativeDocumentMoniker": "PhamTungSon_K22CNT1\\Views\\Pts_TACGIA\\PtsEdit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\Pts_TACGIA\\PtsEdit.cshtml",
+              "RelativeToolTip": "PhamTungSon_K22CNT1\\Views\\Pts_TACGIA\\PtsEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T13:39:49.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pts_TACGIAController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Controllers\\Pts_TACGIAController.cs",
+              "RelativeDocumentMoniker": "PhamTungSon_K22CNT1\\Controllers\\Pts_TACGIAController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Controllers\\Pts_TACGIAController.cs",
+              "RelativeToolTip": "PhamTungSon_K22CNT1\\Controllers\\Pts_TACGIAController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:39:27.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SonModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Models\\SonModel.edmx",
+              "RelativeDocumentMoniker": "PhamTungSon_K22CNT1\\Models\\SonModel.edmx",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Models\\SonModel.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Models\\SonModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-12T13:37:22.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PhamTungSon_K22CNT1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PhamTungSon_K22CNT1 lesson12\\PhamTungSon_K22CNT1\\PhamTungSon_K22CNT1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PhamTungSon_K22CNT1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T13:27:26.132Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

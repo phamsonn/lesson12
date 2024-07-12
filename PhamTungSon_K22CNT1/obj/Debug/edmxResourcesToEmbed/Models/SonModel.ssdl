@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PhamTungSonModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Pts_SACH">
+    <Key>
+      <PropertyRef Name="Pts_MaSach" />
+    </Key>
+    <Property Name="Pts_MaSach" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="Pts_TenSach" Type="nvarchar" MaxLength="50" />
+    <Property Name="Pts_SoTrang" Type="int" />
+    <Property Name="Pts_NamXB" Type="int" />
+    <Property Name="Pts_MaTG" Type="nchar" MaxLength="10" />
+    <Property Name="Pts_TrangThai" Type="bit" />
+  </EntityType>
+  <EntityType Name="Pts_TACGIA">
+    <Key>
+      <PropertyRef Name="Pts_MaTG" />
+    </Key>
+    <Property Name="Pts_MaTG" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="Pts_TenTacGia" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_Pts_SACH_Pts_TACGIA">
+    <End Role="Pts_TACGIA" Type="Self.Pts_TACGIA" Multiplicity="0..1" />
+    <End Role="Pts_SACH" Type="Self.Pts_SACH" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pts_TACGIA">
+        <PropertyRef Name="Pts_MaTG" />
+      </Principal>
+      <Dependent Role="Pts_SACH">
+        <PropertyRef Name="Pts_MaTG" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="PhamTungSonModelStoreContainer">
+    <EntitySet Name="Pts_SACH" EntityType="Self.Pts_SACH" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Pts_TACGIA" EntityType="Self.Pts_TACGIA" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Pts_SACH_Pts_TACGIA" Association="Self.FK_Pts_SACH_Pts_TACGIA">
+      <End Role="Pts_TACGIA" EntitySet="Pts_TACGIA" />
+      <End Role="Pts_SACH" EntitySet="Pts_SACH" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

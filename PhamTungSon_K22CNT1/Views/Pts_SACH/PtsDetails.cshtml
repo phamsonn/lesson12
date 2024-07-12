@@ -1,0 +1,58 @@
+﻿@model PhamTungSon_K22CNT1.Models.Pts_SACH
+
+@{
+    ViewBag.Title = "PtsDetails";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Pts_SACH</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Pts_TenSach)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pts_TenSach)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pts_SoTrang)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pts_SoTrang)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pts_NamXB)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pts_NamXB)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pts_TrangThai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pts_TrangThai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pts_TACGIA.Pts_TenTacGia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pts_TACGIA.Pts_TenTacGia)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("PtsEdit", "PtsEdit", new { id = Model.Pts_MaSach }) |
+    @Html.ActionLink("Back to List", "PtsIndex")
+</p>
